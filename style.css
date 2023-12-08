@@ -356,6 +356,7 @@ footer{
     flex-direction: column;
     gap: 10px;
     padding: 10px;
+    display:none;
     justify-content: center;
     border-radius: 20px 20px 0 0;
 }
